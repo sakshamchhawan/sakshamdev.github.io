@@ -1,0 +1,28 @@
+
+.container {
+  top: 0%;
+  margin: 0%;
+  padding: 0%;
+  display: flex;
+  overflow: auto;
+  flex: none;
+}
+.container.y {
+  top: 0%;
+  margin: 0%;
+  padding: 0%;
+  width: 100vw;
+  height: 100vh;
+  flex-flow: column nowrap;
+}
+.y.mandatory-scroll-snapping {
+  scroll-snap-type: y mandatory;
+}
+.container > div {
+  top: 0%;
+  margin: 0%;
+  padding: 0%;
+  scroll-snap-align: center;
+  flex: none;
+}
+
