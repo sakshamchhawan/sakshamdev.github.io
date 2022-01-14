@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/sakshamdev.github.io/static/css/main.73f23df0.css",
+    "main.js": "/sakshamdev.github.io/static/js/main.906ffe75.js",
+    "static/js/787.6207a157.chunk.js": "/sakshamdev.github.io/static/js/787.6207a157.chunk.js",
+    "static/media/photo.svg": "/sakshamdev.github.io/static/media/photo.d9147e9957aa11f19349eddf9fe9c3fc.svg",
+    "static/media/main.png": "/sakshamdev.github.io/static/media/main.d64b96c52ca67507c5b2.png",
+    "index.html": "/sakshamdev.github.io/index.html",
+    "main.73f23df0.css.map": "/sakshamdev.github.io/static/css/main.73f23df0.css.map",
+    "main.906ffe75.js.map": "/sakshamdev.github.io/static/js/main.906ffe75.js.map",
+    "787.6207a157.chunk.js.map": "/sakshamdev.github.io/static/js/787.6207a157.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73f23df0.css",
+    "static/js/main.906ffe75.js"
+  ]
+}
